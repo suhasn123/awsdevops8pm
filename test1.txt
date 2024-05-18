@@ -3,6 +3,10 @@ Welcome to NareshLabs
 India is my country
 
 Line1
+line2
+line3
+
+updated by Naresh to understand about conflicts
 line4
 line5
 
